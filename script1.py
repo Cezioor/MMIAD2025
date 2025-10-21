@@ -1,3 +1,3 @@
 print('Hello! Welcome to script1.')
 print('My modification.')
-print('test')
+print('Conflict change. Something more ...')
