@@ -1,2 +1,3 @@
-# MMIAD2025
-lecture of programming for mathematical modeling and data analysis
+# data oriented programming
+
+tutorial project for oriented programming classes
