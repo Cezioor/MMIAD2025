@@ -1,3 +1,5 @@
 print('Hello! Welcome to script1.')
 print('My modification.')
 print('Conflict change. Something more ...')
+print('My local fix.')
+print('jaj')
