@@ -1,3 +1,4 @@
 [submodule "new_repo"]
 	path = new_repo
 	url = https://github.com/Cezioor/new_repo.git
+
